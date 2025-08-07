@@ -24,12 +24,12 @@ Tarang offers a multi-faceted approach to solving common urban transportation ch
 Link : https://www.figma.com/design/2KjXmW7kRhTWRHN06OgTf0/sdi-tarang?node-id=0-1&p=f&t=E959ElPjTUgrbIjz-0
 
 ## 🖼️ Feature Screenshots
-![Reserve Spot](screens/T1.png)
-![Legal Research Engine](screenshots/landing.png)
-![Legal Research Engine](screenshots/landing.png)
-![Legal Research Engine](screenshots/landing.png)
-![Legal Research Engine](screenshots/landing.png)
-![Legal Research Engine](screenshots/landing.png)
-![Legal Research Engine](screenshots/landing.png)
-![Legal Research Engine](screenshots/landing.png)
+![Home Page](screen/T1.png)
+![Reserve Spot](screen/T2.png)
+![JamPredict](screen/T3.png)
+![Road Sync](screen/T4.png)
+![Zone Alert](screen/T5.png)
+![Citizen Feedback](screen/T6.png)
+![Speed Lane](screen/T7.png)
+![Speed Lane-Notif](screen/T8.png)
 
